@@ -22,7 +22,7 @@ public class Converter {
         System.out.println("300 rubles are " + euro + " euro.");
         System.out.println("300 rubles are " + dollar + " dollar.");
 
-        // ----------------------------------Проверка программы-----------------------------------
+        // ----------------------------------Проверка программы----------------------------------
         int in = 300;
         double expectedEuro = 4.285714285714286;
         double expectedDollar = 5.0;
@@ -30,7 +30,7 @@ public class Converter {
         boolean passedDollar = expectedDollar == dollar;
         System.out.println("Euro test result is: " + passedEuro);
         System.out.println("Dollar test result is: " + passedDollar);
-        // ----------------------------------Проверка программы-----------------------------------
+        // ----------------------------------Проверка программы----------------------------------
     }
 }
 /*
