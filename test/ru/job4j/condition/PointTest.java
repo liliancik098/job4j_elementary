@@ -8,10 +8,10 @@ import static org.junit.Assert.*;
 public class PointTest {
 
     @Test
-    public void when25to210then8() {
-        double expected = 8.0;
-        int x1 = 10;
-        int y1 = 5;
+    public void when510to25then5() {
+        double expected = 5.830951894845301;
+        int x1 = 5;
+        int y1 = 10;
         int x2 = 2;
         int y2 = 5;
         double out = Point.distance(x1, y1, x2, y2);
