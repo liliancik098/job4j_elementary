@@ -2,7 +2,7 @@ package ru.job4j.condition;
 
 public class LogicNot {
 
-    public boolean isEven(int num) {
+    public boolean isEven(int num)  {
         return num % 2 == 0;
     }
 
