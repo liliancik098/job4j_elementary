@@ -5,7 +5,7 @@ public class ArrayDefinition {
         short[] ages = new short[10];
         String[] surname = new String[100500];
         float[] prices = new float[40];
-        String[] names = new String[4]
+        String[] names = new String[4];
                 names[0] = "Плетосу Лилиан";
                 names[1] = "Хаширама Сэнджу";
                 names[2] = "Тобирама";
